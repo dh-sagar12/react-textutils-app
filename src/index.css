@@ -1,0 +1,22 @@
+.text-summary{
+  background-color: rgb(179, 179, 179);
+  padding: 12px;
+  border-radius: 3px;
+}
+
+.text-form:focus{
+  box-shadow: none;
+}
+
+
+.my-style{
+  background-color: black!important;
+  color: white!important;
+  /* border: 1px solid wheat; */
+
+}
+.my-style-2{
+  background-color: rgb(29, 29, 29)!important;
+  color: white!important;
+
+}
